@@ -2,19 +2,18 @@
 
 * [Course Addenda](addenda.md)
 
-## Labs
+## Weeks
 
-* [Lab 0](labs/lab-00.md)
-* [Lab 1](labs/lab-01.md)
-* [Lab 2](labs/lab-02.md)
-* [Lab 3](labs/lab-03.md)
-* [Lab 4](labs/lab-04.md)
-* [Lab 5](labs/lab-05.md)
-* [Lab 6](labs/lab-06.md)
-* [Lab 7](labs/lab-07.md)
-* [Lab 8](labs/lab-08.md)
-* [Lab 9](labs/lab-09.md)
-* [Lab 10](labs/lab-10.md)
+* [Week 1](weeks/week-01.md)
+* [Week 2](weeks/week-02.md)
+* [Week 3](weeks/week-03.md)
+* [Week 4](weeks/week-04.md)
+* [Week 5](weeks/week-05.md)
+* [Week 6](weeks/week-06.md)
+* [Week 7](weeks/week-07.md)
+* [Week 8](weeks/week-08.md)
+* [Week 9](weeks/week-09.md)
+* [Week 10](weeks/week-10.md)
 
 
 ## Assignments
