@@ -1,3 +1,3 @@
-# Lab 1
+# Week 1
 
 coming soon!

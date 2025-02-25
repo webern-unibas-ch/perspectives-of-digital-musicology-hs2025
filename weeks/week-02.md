@@ -1,3 +1,3 @@
-# Lab 8
+# Week 2
 
 Coming Soon!

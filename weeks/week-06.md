@@ -1,3 +1,3 @@
-# Lab 10
+# Week 6
 
 Coming Soon!
