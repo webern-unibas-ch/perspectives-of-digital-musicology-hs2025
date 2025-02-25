@@ -37,7 +37,7 @@ In order to pass the course you need to:
 |---|---|---|---|
 | week 1 | Organization // What is Digital Musicology? | | |
 | week 2 | Data in Musicology | | |
-|break week | Fastnacht
+|break week | Fasnacht
 | week 3 | Music Encoding and Digital Editions | | |
 | week 4 | Optical Music Recognition (OMR) | | |
 | week 5 | Music Information Retrieval (MIR) | | |
