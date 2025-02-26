@@ -1,7 +1,7 @@
 # Course Addenda
 
 
-Perspektiven der Digitalen Musikwissenschaft
+Perspectives of Digital Musiology
 
 
 ## Info
@@ -26,25 +26,25 @@ In order to pass the course you need to:
 
 * regularly and actively participate.
 * engage with the assignments.
-* give a 10 minute short presentation on a content-related topic.
+* moderate a brief discussion of one assignment / content-related topic.
 * write a brief essay (and re-essay).
 * miss max. 3 times with excuse.
 
 ## Time line
 
 
-| Week | Topics | Readings | |
+| Week | Topics | Readings | Assignments |
 |---|---|---|---|
-| week 1 | Organization // What is Digital Musicology? | | |
-| week 2 | Data in Musicology | | |
-|break week | Fasnacht
+| [week 1](./weeks/week-01.md) | Organization <br> What is Digital Musicology? | --- | [Assignment 1](./assignments/assignment-1.md) |
+| [week 2](./weeks/week-02.md) | Data in Musicology |  Pugin, Laurent: “The challenge of data in digital musicology”, in: *Frontiers in Digital Humanities* 2 (2015). DOI: https://doi.org/10.3389/fdigh.2015.00004  |  |
+| break week | Fasnacht
 | week 3 | Music Encoding and Digital Editions | | |
 | week 4 | Optical Music Recognition (OMR) | | |
 | week 5 | Music Information Retrieval (MIR) | | |
 | week 6 | Computer-Assisted Music Analysis | | |
-|break week | Easter
+| break week | Easter
 | week 7 | Critical Perspectives on Digital Methods / Use of AI (Part 1) | | |
-|break week | Labor Day
+| break week | Labor Day
 | week 8 | Critical Perspectives on Digital Methods / Use of AI (Part 2) | | |  
 | week 9 | Digital Musicology Using the Example of the Eurovision Song Contest | | |
 | week 10 | Summary and Final Discussion | | |
@@ -74,5 +74,3 @@ XML files can be opened and edited with any text editor. The most widely used an
 ![Code of COnduct Uni Basel](./images/CodeOfConductTitelgrafik_1000x500.png)
 
 [Code of Conduct Uni Basel](https://www.unibas.ch/de/Universitaet/Administration-Services/Vizerektorat-People-And-Culture/Culture-Diversity-und-Leadership-Development/Personal-Integrity/Code-of-Conduct.html)
-
-
