@@ -37,14 +37,14 @@ In order to pass the course you need to:
 |---|---|---|---|
 | [week 1](./weeks/week-01.md) | Organization <br> What is Digital Musicology? ([Slides](https://docs.google.com/presentation/d/1inI_F-aKecElv-lZWA4FEf9SjsUa8Cf0Gu9lYPZgk0s/edit?usp=sharing)) | --- | [Assignment 1](./assignments/assignment-1.md) |
 | [week 2](./weeks/week-02.md) | Data in Musicology |  Pugin, Laurent: “The challenge of data in digital musicology”, in: *Frontiers in Digital Humanities* 2 (2015). DOI: https://doi.org/10.3389/fdigh.2015.00004  |  |
-| break week | Fasnacht
+| break week | Fasnacht | --- | --- |
 | week 3 | Music Encoding and Digital Editions | | |
 | week 4 | Optical Music Recognition (OMR) | | |
 | week 5 | Music Information Retrieval (MIR) | | |
 | week 6 | Computer-Assisted Music Analysis | | |
-| break week | Easter
+| break week | Easter |--- | --- |
 | week 7 | Critical Perspectives on Digital Methods / Use of AI (Part 1) | | |
-| break week | Labor Day
+| break week | Labor Day |--- | --- |
 | week 8 | Critical Perspectives on Digital Methods / Use of AI (Part 2) | | |  
 | week 9 | Digital Musicology Using the Example of the Eurovision Song Contest | | |
 | week 10 | Summary and Final Discussion | | |
