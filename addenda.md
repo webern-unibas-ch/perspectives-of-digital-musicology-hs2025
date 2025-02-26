@@ -35,7 +35,7 @@ In order to pass the course you need to:
 
 | Week | Topics | Readings | Assignments |
 |---|---|---|---|
-| [week 1](./weeks/week-01.md) | Organization <br> What is Digital Musicology? | --- | [Assignment 1](./assignments/assignment-1.md) |
+| [week 1](./weeks/week-01.md) | Organization <br> What is Digital Musicology? ([Slides](https://docs.google.com/presentation/d/1inI_F-aKecElv-lZWA4FEf9SjsUa8Cf0Gu9lYPZgk0s/edit?usp=sharing)) | --- | [Assignment 1](./assignments/assignment-1.md) |
 | [week 2](./weeks/week-02.md) | Data in Musicology |  Pugin, Laurent: “The challenge of data in digital musicology”, in: *Frontiers in Digital Humanities* 2 (2015). DOI: https://doi.org/10.3389/fdigh.2015.00004  |  |
 | break week | Fasnacht
 | week 3 | Music Encoding and Digital Editions | | |

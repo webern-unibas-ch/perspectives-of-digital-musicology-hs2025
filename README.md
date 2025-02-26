@@ -1,4 +1,6 @@
-# Coursename
+# Perspectives of Digital Musicology
+
+* Link to this repo: https://github.com/webern-unibas-ch/perspectives-of-digital-musicology-fs2025
 
 * [Course Addenda](addenda.md)
 
@@ -23,8 +25,8 @@
 * [assignment 3](assignments/assignment-3.md)
 * [assignment 4](assignments/assignment-4.md)
 * [assignment 5](assignments/assignment-5.md)
+...
 
-## Resources
 
 
 
