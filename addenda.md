@@ -35,19 +35,19 @@ In order to pass the course you need to:
 
 | Week | Topics | Readings | Assignments |
 |---|---|---|---|
-| Block I: Introduction ||||
+| **Block I: Introduction** ||||
 | [week 1](./weeks/week-01.md) | Organization <br> What is Digital Musicology? ([Slides](https://docs.google.com/presentation/d/1inI_F-aKecElv-lZWA4FEf9SjsUa8Cf0Gu9lYPZgk0s/edit?usp=sharing)) | --- | [Assignment 1](./assignments/assignment-1.md) |
 | [week 2](./weeks/week-02.md) | Data in Musicology |  Pugin, Laurent: “The challenge of data in digital musicology”, in: *Frontiers in Digital Humanities* 2 (2015). DOI: https://doi.org/10.3389/fdigh.2015.00004  |  |
-| Block II: Methods and Technologies ||||
+| **Block II: Methods and Technologies** ||||
 | week 3 | Music Encoding and Digital Editions | | |
 | week 4 | Optical Music Recognition (OMR) | | |
 | week 5 | Music Information Retrieval (MIR) | | |
 | break week (30.10.) | --- | --- | --- |
 | week 6 | Computer-Assisted Music Analysis | | |
-| Block III: Critical Reflection ||||
+| **Block III: Critical Reflection** ||||
 | week 7 | Critical Perspectives on Digital Methods / Use of AI (Part 1) | | |
 | week 8 | Critical Perspectives on Digital Methods / Use of AI (Part 2) | | |  
-| Block IV: Applications and Examples ||||
+| **Block IV: Applications and Examples** ||||
 | week 9 | Digital Musicology Using the Example of the Eurovision Song Contest | | |
 | week 10 | TBA | | |
 | week 11 | TBA | | |
