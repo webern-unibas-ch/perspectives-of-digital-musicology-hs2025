@@ -1,6 +1,6 @@
 # Perspectives of Digital Musicology
 
-* Link to this repo: https://github.com/webern-unibas-ch/perspectives-of-digital-musicology-fs2025
+* Link to this repo: https://github.com/webern-unibas-ch/perspectives-of-digital-musicology-hs2025
 
 * [Course Addenda](addenda.md)
 
