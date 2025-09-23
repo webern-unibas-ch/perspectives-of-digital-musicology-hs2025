@@ -16,6 +16,8 @@
 * [Week 8](weeks/week-08.md)
 * [Week 9](weeks/week-09.md)
 * [Week 10](weeks/week-10.md)
+* [Week 11](weeks/week-11.md)
+* [Week 12](weeks/week-12.md)
 
 
 ## Assignments
