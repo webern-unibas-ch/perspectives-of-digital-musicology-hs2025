@@ -77,4 +77,4 @@ XML files can be opened and edited with any text editor. The most widely used an
 
 ![Code of COnduct Uni Basel](./images/CodeOfConductTitelgrafik_1000x500.png)
 
-[Code of Conduct Uni Basel](https://www.unibas.ch/de/Universitaet/Administration-Services/Vizerektorat-People-And-Culture/Culture-Diversity-und-Leadership-Development/Personal-Integrity/Code-of-Conduct.html)
+[Code of Conduct Uni Basel](https://www.unibas.ch/de/Universitaet/Administration-Services/Vizerektorat-People-And-Culture/Persoenliche-Integritaet/Code-of-Conduct.html)
