@@ -37,7 +37,7 @@ In order to pass the course you need to:
 |---|---|---|---|
 | **Block I: Introduction** ||||
 | [week 1](./weeks/week-01.md) (25.9.) | Organization <br> What is Digital Musicology? ([Slides](https://docs.google.com/presentation/d/1inI_F-aKecElv-lZWA4FEf9SjsUa8Cf0Gu9lYPZgk0s/edit?usp=sharing)) | --- | [Assignment 1](./assignments/assignment-1.md) |
-| [week 2](./weeks/week-02.md) (2.10) | Data in Musicology |  Pugin, Laurent: “The challenge of data in digital musicology”, in: *Frontiers in Digital Humanities* 2 (2015). DOI: https://doi.org/10.3389/fdigh.2015.00004  |  |
+| [week 2](./weeks/week-02.md) (2.10.) | Data in Musicology |  Pugin, Laurent: “The challenge of data in digital musicology”, in: *Frontiers in Digital Humanities* 2 (2015). DOI: https://doi.org/10.3389/fdigh.2015.00004  | [Assignment 2](./assignments/assignment-2.md) |
 | **Block II: Methods and Technologies** ||||
 | week 3 (9.10.) | Music Encoding and Digital Editions | | |
 | week 4 (16.10.) | Optical Music Recognition (OMR) | | |
