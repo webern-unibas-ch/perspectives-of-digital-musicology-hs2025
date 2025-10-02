@@ -22,11 +22,11 @@
 
 ## Assignments
 
-* [assignment 1](assignments/assignment-1.md)
-* [assignment 2](assignments/assignment-2.md)
-* [assignment 3](assignments/assignment-3.md)
-* [assignment 4](assignments/assignment-4.md)
-* [assignment 5](assignments/assignment-5.md)
+* [assignment 1](assignments/assignment-01.md)
+* [assignment 2](assignments/assignment-02.md)
+* [assignment 3](assignments/assignment-03.md)
+* [assignment 4](assignments/assignment-04.md)
+* [assignment 5](assignments/assignment-05.md)
 ...
 
 
