@@ -1,6 +1,8 @@
 # Week 2
 
-- Discussion of [assignment 1](../assignments/assignment-1.md)
+- Recap of [week 1](../weeks/week-01.md)
+
+- Discussion of [assignment 1](../assignments/assignment-01.md)
 
 - Data in Musicology
   - Types of musicological data: musical scores, sound, metadata
