@@ -10,4 +10,4 @@
 
 - Identify the main challenge (according to the author) for digital representations of music notation
 
-- If you would have to create your own (digital) representation of music notation, how would it look like?
+- HANDS ON: If you would have to create your own (digital) representation of music notation, how would it look like?
