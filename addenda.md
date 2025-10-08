@@ -40,7 +40,7 @@ In order to pass the course you need to:
 | [week 2](./weeks/week-02.md) (2.10.) | Data in Musicology ([Slides](https://docs.google.com/presentation/d/1qfzbluMBeghoP9PxtKyVA28YXhjiJy54OLV6TRzEcUI/edit?usp=sharing)) |  Pugin, Laurent: “The challenge of data in digital musicology”, in: *Frontiers in Digital Humanities* 2 (2015). DOI: https://doi.org/10.3389/fdigh.2015.00004  | [Assignment 2](./assignments/assignment-02.md) |
 | **Block II: Methods and Technologies** ||||
 | [week 3](./weeks/week-03.md)  (9.10.) | Music Encoding ([Slides](https://docs.google.com/presentation/d/11sqRRzyJiZJSIxTw-pPMu8BeKJ-H8W8LH8F3bSXsITw/edit?usp=sharing) / [mei-friend Tutorial](https://docs.google.com/presentation/d/1_urnbJjWMWIgQPXH5CmnWxDifRBWxh5y5grNcwYz-lE/edit?usp=sharing)) | Teich Geertinger, Axel: “Digital Encoding of Music Notation with MEI”, in: *Notated Music in the Digital Sphere. Possibilities and Limitations* (2021). URL: https://issuu.com/nasjonalbiblioteket/docs/nota_bene_15_layout_issuu/35 | [Assignment 3](./assignments/assignment-03.md) |
-| week 4 (16.10.) | Digital Music Editions | | |
+| week 4 (16.10.) | Digital Music Editions | Stefanie Acquavella-Rauch: “(Musik)Edition im ›digitalen Zeitalter‹ – Versuch einer Verortung konzeptioneller und struktureller Veränderungen”, in: Beitragsarchiv des Internationalen Kongresses der Gesellschaft für Musikforschung, Mainz 2016 – »Wege der Musikwissenschaft«, hg. von Gabriele Buschmeier und Klaus Pietschmann, Mainz 2019; URL: https://schott-campus.com/wp-content/uploads/2019/02/II5_Rauch.pdf | |
 | week 5 (23.10.)| Optical Music Recognition (OMR) | | |
 | break week (30.10.) | --- | --- | --- |
 | week 6 (6.11.) | Music Information Retrieval (MIR) | | |
