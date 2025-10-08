@@ -1,3 +1,8 @@
 # Assignment 3
 
-Coming Soon!
+- Read the article: Stefanie Acquavella-Rauch: “(Musik)Edition im ›digitalen Zeitalter‹ – Versuch einer Verortung konzeptioneller und struktureller Veränderungen”, in: Beitragsarchiv des Internationalen Kongresses der Gesellschaft für Musikforschung, Mainz 2016 – »Wege der Musikwissenschaft«, hg. von Gabriele Buschmeier und Klaus Pietschmann, Mainz 2019
+
+- What are the main conceptual and methodological shifts in (digital) music editing described by the author?
+
+- Look at some examples of "hybrid" and "genuinely digital" music editions mentioned in the article and identify differences/commonalities in their editorial approaches.
+
