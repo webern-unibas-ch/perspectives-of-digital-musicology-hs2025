@@ -26,7 +26,7 @@ In order to pass the course you need to:
 
 * regularly and actively participate.
 * engage with the assignments.
-* moderate a brief discussion of one assignment / content-related topic.
+* moderate a brief discussion of one assignment / content-related topic (cf. [moderation guidelines](./moderation.md)).
 * write a brief essay (and re-essay).
 * miss max. 3 times with excuse.
 
