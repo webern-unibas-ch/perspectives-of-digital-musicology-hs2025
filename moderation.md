@@ -1,8 +1,10 @@
-Setting Ground Rules
+# Moderation Guidelines
+
+## Setting Ground Rules
 
 - listening respectfully, speaking one at a time, and encouraging criticism of ideas rather than individuals
 
-Structuring the Discussion
+## Structuring the Discussion
 
 - Begin with open-ended, focused questions related to the paper to prompt conversation and deeper analysis.
 - Prepare a few backup questions if the group grows silent or stuck.
