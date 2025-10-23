@@ -4,7 +4,7 @@
 
 - What are the main objectives of OMR according to the paper?
 
-- Name and describe the main aspects included in the four stages of a typical framework for the automatic regocnition of music sheets.
+- Name the main aspects included in the four stages of a typical framework for the automatic regocnition of music sheets and briefly describe each stage.
 
-- Identify challenges in the evaluation of OMR processing systems?
+- Identify challenges involved in evaluating OMR processing systems?
 
