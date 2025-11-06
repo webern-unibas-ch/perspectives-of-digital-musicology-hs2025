@@ -1,6 +1,5 @@
 # Course Addenda
 
-
 Perspectives of Digital Musiology
 
 
@@ -19,10 +18,9 @@ Please refer to the course outline for learning outcomes, course description and
 
 Please also visit [AI in learning and teaching](https://www.unibas.ch/en/Studies/Learning-and-Teaching/AI-in-learning-and-teaching.html) for key information about guidelines from the University of Basel for the use of AI-based tools.
 
+
 ## Course Policy
-
 In order to pass the course you need to:
-
 
 * regularly and actively participate.
 * engage with the assignments.
@@ -30,8 +28,10 @@ In order to pass the course you need to:
 * write a brief essay (and re-essay).
 * miss max. 3 times with excuse.
 
+
 ## Time line
 
+Further readings can be found in the [reading list](./reading_list.md).
 
 | Week | Topics | Readings | Assignments |
 |---|---|---|---|
@@ -57,7 +57,6 @@ In order to pass the course you need to:
 ## Resources
 
 ### XML editors
-
 XML files can be opened and edited with any text editor. The most widely used and with specific support for TEI currently are:
 - [oXygen](https://www.oxygenxml.com/) (licensed)
 - [Visual Studio Code](https://code.visualstudio.com/) (free). How to use VSCode for [XML and TEI encoding](http://phc.uni.wroc.pl/interreg/w/losada/VSCode.html)
@@ -74,7 +73,6 @@ XML files can be opened and edited with any text editor. The most widely used an
  
 
 ## Code of Conduct
-
 ![Code of COnduct Uni Basel](./images/CodeOfConductTitelgrafik_1000x500.png)
 
 [Code of Conduct Uni Basel](https://www.unibas.ch/de/Universitaet/Administration-Services/Vizerektorat-People-And-Culture/Persoenliche-Integritaet/Code-of-Conduct.html)
