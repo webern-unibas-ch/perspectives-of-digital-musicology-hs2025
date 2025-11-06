@@ -7,6 +7,7 @@
 - Münnich, S. (2025). "Musikalische Schrift und ihre Codes : Studien zu Genese, Theorie und Digitalität einer Wechselbeziehung", Dissertation (https://edoc.unibas.ch/entities/publication/82e7c418-c0f1-4e24-870e-ed72e4f53456)
 
 ## Digital Music Editions
+- Kepper, J. (2011). "Musikedition im Zeichen neuer Medien. Historische Entwicklung und gegenwärtige Perspektiven musikalischer Gesamtausgaben", Dissertation (http://kups.ub.uni-koeln.de/id/eprint/6639)
 - Urbanek, N. (2013). "Was ist eine musikphilologische Frage." *Historische Musikwissenschaft: pp. 147–183
 - Kepper, J., Pugin, L. (2017). "Was ist eine digitale Edition." *MusikTheorie – Zeitschrift für Musikwissenschaft* 32/4: pp. 347–363
 - Acquavella-Rauch, S. (2019). “(Musik)Edition im ›digitalen Zeitalter‹ – Versuch einer Verortung konzeptioneller und struktureller Veränderungen.” *Beitragsarchiv des Internationalen Kongresses der Gesellschaft für Musikforschung, Mainz 2016 – »Wege der Musikwissenschaft«* (https://schott-campus.com/wp-content/uploads/2019/02/II5_Rauch.pdf)
