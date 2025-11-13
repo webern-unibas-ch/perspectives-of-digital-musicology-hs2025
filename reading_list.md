@@ -20,3 +20,9 @@
 - Novotny, J., Pokorn, J. (2015). "Introduction to Optical Music Recognition: Overview and Practical Challenges." *Dateso*: pp. 65–76 (https://ceur-ws.org/Vol-1343/paper6.pdf)
 - Calvo-Zaragoza, J., Valero-Mas, J. (2017). "End-to-End Optical Music Recognition Using Neural Networks." *ISMIR Proceedings* 2017 (https://simssa.ca/assets/files/jorge-ismir2017.pdf)
 - Calvo-Zaragoza, J., Hajič Jr., J., Pacha, A. (2020). "Understanding Optical Music Recognition." *ACM Computing Surveys* 53/4 (https://doi.org/10.1145/3397499)
+
+
+## Music Information Retrieval (MIR)
+- Downie, J. S. (2003). "Music information retrieval." *Annual review of information science and technology* 37(1), pp. 295-340.
+- Schedl, M., Gómez, E., & Urbano, J. (2014). "Music information retrieval: Recent developments and applications." *Foundations and Trends in Information Retrieval* 8(2-3), pp. 127-261.
+- Müller, Meinard (2021). *Fundamentals of music processing: Using Python and Jupyter notebooks.* Vol. 2. Cham: Springer.
