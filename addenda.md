@@ -45,7 +45,7 @@ Further readings can be found in the [reading list](./reading_list.md).
 | break week (30.10.) | --- | --- | --- |
 | [week 6](./weeks/week-06.md) (6.11.) | Optical Music Recognition (OMR) ([Slides: OMR for Dummies - ISMIR Tutorial](https://docs.google.com/presentation/d/1l0FtYLDYHSLyVfmNPskgvOhQsi466caO4CZWLZrhCzk/edit?usp=sharing)) | Rebelo, et al.: "Optical music recognition: state-of-the-art and open issues", in: *International Journal of Multimedia Information Retrieval* 1 (2012), S. 173–190. DOI: https://doi.org/10.1007/s13735-012-0004-6 | [Assignment 5](./assignments/assignment-05.md) |
 | [week 7](./weeks/week-07.md) (13.11.) | Computer-Assisted Music Analysis | Schüler, Nico: "Computer-Assisted Music Analysis. Historical Reflections, Recent Approaches, and Common Methods", in: *MusikTheorie. Zeitschrift für Musikwissenschaft* 32/4 (2017), pp. 317–329. (ADAM) | [Assignment 6](./assignments/assignment-06.md) |
-| week 8 (20.11.) | Music Information Retrieval (MIR)  | Downie, J. Stephen (2003). “Music Information Retrieval”, in: *Annual Review of Information Science and Technology* 37(1), S. 295–340. DOI: https://doi.org/10.1002/aris.1440370108  | |  
+| [week 8](./weeks/week-08.md) (20.11.) | Music Information Retrieval (MIR)  | Downie, J. Stephen (2003). “Music Information Retrieval”, in: *Annual Review of Information Science and Technology* 37(1), S. 295–340. DOI: https://doi.org/10.1002/aris.1440370108  | [Assignment 7](./assignments/assignment-07.md) |  
 | **Block III: Critical Reflection** ||||
 | week 9 (27.11.) | Critical Perspectives on Digital Methods / Use of AI (Part 1) | | |
 | week 10 (4.12.) | Critical Perspectives on Digital Methods / Use of AI (Part 2) | | |
