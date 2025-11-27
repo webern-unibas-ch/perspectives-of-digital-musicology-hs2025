@@ -2,11 +2,11 @@
 
 - Recap of [week 8](../weeks/week-08.md)
 
-- Discussion of [assignment 7](../assignments/assignment-07.md)
+- Problems with/Insights from working on [assignment 7](../assignments/assignment-07.md)
 
 - Critical Reflection on use of ditigal tools and applications in musicology
   
-  - Preparation for **Response Essay**: try to express not just agreement/disagreement, but to create dialogue, extension, critique, alternative perspectives, or deeper exploration of themes raised in the original essay
+  - Preparation for **Response Essay** ([assignment 8](../assignments/assignment-08.md)): try to express not just agreement/disagreement, but to create dialogue, extension, critique, alternative perspectives, or deeper exploration of themes raised in the original essay
 
   - Silent Reading & Note-Taking (20 mins)
     - What is the author's main claim?
