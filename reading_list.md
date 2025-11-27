@@ -26,3 +26,7 @@
 - Downie, J. S. (2003). "Music information retrieval." *Annual review of information science and technology* 37(1), pp. 295-340.
 - Schedl, M., Gómez, E., & Urbano, J. (2014). "Music information retrieval: Recent developments and applications." *Foundations and Trends in Information Retrieval* 8(2-3), pp. 127-261.
 - Müller, Meinard (2021). *Fundamentals of music processing: Using Python and Jupyter notebooks.* Vol. 2. Cham: Springer.
+
+
+## Music(ology) and AI
+- Novazzi, Enrico (2025). "How the Spotify Algorithm Works in 2025", Matchfy.io. URL: https://blog.matchfy.io/how-does-the-spotify-algorithm-work-in-2025/
