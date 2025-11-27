@@ -14,8 +14,8 @@
     - What questions remain unanswered?
     - Where do you see room for further discussion or alternative viewpoints?
 
-  - Small group discussion (3-4 people, 15 mins)
-    - Briefly present the read essay (2-3 mins), highlight key themes and your initial reaction
+  - Small group discussion (3–4 people, 15 mins)
+    - Briefly present the read essay (2–3 mins), highlight key themes and your initial reaction
     - Structured discussion: Identify 
       - common themes,
       - diverse perspectives,
