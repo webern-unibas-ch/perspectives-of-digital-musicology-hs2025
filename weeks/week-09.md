@@ -8,13 +8,13 @@
   
   - Preparation for **Response Essay** ([assignment 8](../assignments/assignment-08.md)): try to express not just agreement/disagreement, but to create dialogue, extension, critique, alternative perspectives, or deeper exploration of themes raised in the original essay
 
-  - Silent Reading & Note-Taking (20 mins)
+  - Silent Reading & Note-Taking (15 mins)
     - What is the author's main claim?
     - What did you find most compelling?
     - What questions remain unanswered?
     - Where do you see room for further discussion or alternative viewpoints?
 
-  - Small group discussion (3-4 people, 25 mins)
+  - Small group discussion (3-4 people, 15 mins)
     - Briefly present the read essay (2-3 mins), highlight key themes and your initial reaction
     - Structured discussion: Identify 
       - common themes,
