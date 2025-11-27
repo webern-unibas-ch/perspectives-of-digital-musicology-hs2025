@@ -38,3 +38,5 @@
 - Li, N. and Wang, N. (2025). "Optimization and Future Prospects of Digital Music Creation Processes through Artificial Intelligence Technologies.", in: *Art and Design Review* 13, pp. 266–280. DOI: https://doi.org/10.4236/adr.2025.134020.
 - O’Leary, E. (2025). "Considering the Possibilities and Problems of AI in Music Education: The Need for Critical Literacies.", in: *Action, Criticism, and Theory for Music Education* 24/3, pp. 138–164. DOI: https://doi.org/10.22176/act24.3.138.
 - Bio-Computing: https://finalspark.com/live/
+- Martínez-Heredia, A., Rodríguez. D., Ortiz García, A (2025). "Artificial Intelligence Agents in Music Analysis: An Integrative Perspective Based on Two Use Cases". DOI: https://doi.org/10.48550/arXiv.2511.13987
+- Daly, T. (2025). "Playing with AI: Approximating Expertise at Coding". Blog entry. URL: https://brainfood.musicology.org/vol-9-no-1-2025/playing-with-ai/
