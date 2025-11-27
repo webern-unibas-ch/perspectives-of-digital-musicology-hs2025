@@ -47,7 +47,7 @@ Further readings can be found in the [reading list](./reading_list.md).
 | [week 7](./weeks/week-07.md) (13.11.) | Computer-Assisted Music Analysis | Schüler, Nico: "Computer-Assisted Music Analysis. Historical Reflections, Recent Approaches, and Common Methods", in: *MusikTheorie. Zeitschrift für Musikwissenschaft* 32/4 (2017), pp. 317–329. (ADAM) | [Assignment 6](./assignments/assignment-06.md) |
 | [week 8](./weeks/week-08.md) (20.11.) | Music Information Retrieval (MIR)  | Downie, J. Stephen (2003). “Music Information Retrieval”, in: *Annual Review of Information Science and Technology* 37(1), S. 295–340. DOI: https://doi.org/10.1002/aris.1440370108  | [Assignment 7](./assignments/assignment-07.md) |  
 | **Block III: Critical Reflection** ||||
-| week 9 (27.11.) | Critical Perspectives on Digital Methods / Use of AI (Part 1) | | |
+| [week 9](./weeks/week-09.md) week 9 (27.11.) | Critical Perspectives on Digital Methods / Use of AI (Part 1) | | [Assignment 8](./assignments/assignment-08.md) |
 | week 10 (4.12.) | Critical Perspectives on Digital Methods / Use of AI (Part 2) | | |
 | **Block IV: Applications and Examples** ||||
 | week 11 (11.12.) | Digital Musicology Using the Example of the Eurovision Song Contest | | |
