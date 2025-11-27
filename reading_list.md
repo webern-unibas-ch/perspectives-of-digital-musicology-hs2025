@@ -35,3 +35,5 @@
 - Research project: MusAI. Music & Artificial Intelligence - Building Critical Interdisciplinary Studies (2021–2026). URL: https://musicairesearch.wordpress.com/
 - Research guide: AI and Music (University of Southern California). URL: https://libguides.usc.edu/ai/music
 - White Sea Studio: "A.I is going to DESTROY MUSIC!". https://www.youtube.com/watch?v=khYpf3dLYgs
+- Holly Herndon: Proto. Review: https://pitchfork.com/reviews/albums/holly-herndon-proto/
+- Will Jenings (2022). "Artist Ian Cheng explores the technological and aesthetic potential of AI". URL: https://www.wallpaper.com/art/ian-cheng-life-after-bob-halle-am-berghain
