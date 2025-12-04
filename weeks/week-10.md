@@ -7,5 +7,5 @@
 - Discussion of essays & response essays
 
 - Brainstorming
-  - Wwhat are main doubts when it comes to the use of AI tools?
+  - What are main doubts when it comes to the use of AI tools?
   - What could be useful scenarios of AI in musicology? (Text production/correction, documentation, analysis, reconsctruction, coding tasks, others)
