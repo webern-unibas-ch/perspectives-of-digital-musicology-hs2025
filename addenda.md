@@ -50,8 +50,8 @@ Further readings can be found in the [reading list](./reading_list.md).
 | [week 9](./weeks/week-09.md) week 9 (27.11.) | Critical Perspectives on Digital Methods / Use of AI (Part 1) | Essay | [Assignment 8](./assignments/assignment-08.md) |
 | [week 10](./weeks/week-10.md) (4.12.) | Critical Perspectives on Digital Methods / Use of AI (Part 2) ([Slides](https://docs.google.com/presentation/d/1aGXm5N-4bSska3liuhmIwTpXd2mp5AbDUFUkhrZKSBk/edit?usp=sharing)) | Response essay | [Assignment 9](./assignments/assignment-09.md) |
 | **Block IV: Applications and Examples** ||||
-| week 11 (11.12.) | Digital Musicology Using the Example of the Eurovision Song Contest | | |
-| week 12 (18.12.) | Summary and Final Discussion | | |
+| [week 11](./weeks/week-11.md) (11.12.) | Digital Musicology Using the Example of the Eurovision Song Contest | | |
+| [week 12](./weeks/week-12.md) (18.12.) | Summary and Final Discussion | | |
 
 
 ## Resources
